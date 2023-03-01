@@ -54,6 +54,8 @@ https://colab.research.google.com/drive/1U9C8mlpB_8xAX6AkBIHF8S--k2EGveFa?usp=sh
 
 # Диаграммы Венна
 
+По ниже представленным диаграммам Венна, можно заметить, что пересечений мало. Это связано опять же с тем, что мы выравнивали на одну хромосому, а в базе данных используются все. 
+
 ![image](https://user-images.githubusercontent.com/77894393/222071286-242e9b61-30c0-4699-86c3-2793ed1bf79a.png)
 
 ![image](https://user-images.githubusercontent.com/77894393/222071359-a187af26-312f-4905-a25e-0e96d8dbe529.png)
